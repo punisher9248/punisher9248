@@ -21,6 +21,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=unity&logoColor=white)
+
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -30,18 +32,18 @@
 ![GetX](https://img.shields.io/badge/GetX-8E24AA?style=for-the-badge)
 ![Provider](https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge)
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
 ![MVVM](https://img.shields.io/badge/MVVM-2E7D32?style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC-1565C0?style=for-the-badge)
 ![Clean%20Architecture](https://img.shields.io/badge/Clean%20Architecture-424242?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-6A1B9A?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-283593?style=for-the-badge)
 ![UI%2FUX](https://img.shields.io/badge/UI%20%2F%20UX-F06292?style=for-the-badge)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ---
 
