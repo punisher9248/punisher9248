@@ -12,7 +12,7 @@
 - 🌱 Continuously learning and adopting modern tools, patterns, and best practices
 
 ---
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFyMGEyYmtrNDJiZmt4ZmhvanU2ZmdndTZkZmt4ZTB1a2Q2cWZxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFyMGEyYmtrNDJiZmt4ZmhvanU2ZmdndTZkZmt4ZTB1a2Q2cWZxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="600"/>
 
 
 
