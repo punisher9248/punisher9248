@@ -39,12 +39,12 @@
 ![GetX](https://img.shields.io/badge/GetX-8E24AA?style=for-the-badge)
 ![Provider](https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge)
 
-![MVVM](https://img.shields.io/badge/MVVM-2E7D32?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC-1565C0?style=for-the-badge)
-![Clean%20Architecture](https://img.shields.io/badge/Clean%20Architecture-424242?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-6A1B9A?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-283593?style=for-the-badge)
-![UI%2FUX](https://img.shields.io/badge/UI%20%2F%20UX-F06292?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-2E7D32?style=for-the-badge&logo=diagram-project&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-1565C0?style=for-the-badge&logo=code&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-424242?style=for-the-badge&logo=layers&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-6A1B9A?style=for-the-badge&logo=checkmarx&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-283593?style=for-the-badge&logo=abstract&logoColor=white)
+![UI%2FUX](https://img.shields.io/badge/UI%20%2F%20UX-F06292?style=for-the-badge&logo=figma&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
