@@ -12,7 +12,7 @@
 - 🌱 Continuously learning and adopting modern tools, patterns, and best practices
 
 ---
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFyMGEyYmtrNDJiZmt4ZmhvanU2ZmdndTZkZmt4ZTB1a2Q2cWZxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="600"/>
 
 
 
@@ -35,9 +35,9 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqflite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Riverpod](https://img.shields.io/badge/Riverpod-4CAF50?style=for-the-badge)
-![GetX](https://img.shields.io/badge/GetX-8E24AA?style=for-the-badge)
-![Provider](https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-42A5F5?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8E24AA?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
 
 ![MVVM](https://img.shields.io/badge/MVVM-2E7D32?style=for-the-badge&logo=diagram-project&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-1565C0?style=for-the-badge&logo=code&logoColor=white)
