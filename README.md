@@ -61,7 +61,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Socials
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-komail7" target="_blank">
